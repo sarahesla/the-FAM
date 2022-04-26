@@ -1,8 +1,7 @@
 # Readme - COMP 3522 Assignment 1
-## Fall 2020 | Rahul Kukreja | rkukreja1@bcit.ca
+## Fall 2020
 
 ### Name: Sarah Eslamdoust
-### Student ID: A01088358
 
 `Assignment 1` will be your first taste of designing a somewhat complex object oriented program. Take care to think through your code and always ask the question: "Does this code belong here? What is this class responsible for?".
   - **Deadline:** 16th October : 11:59 PM
